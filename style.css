@@ -3,11 +3,11 @@
 .header-img:last-child{margin:0;}
 .b-header-img{height:100vh;}
 .header-img img{width:100vw;}
-.header-img-0{background-image:url(images/Unknown-6.jpeg);background-attachment:fixed;background-position:center;}
-.header-img-1{background-image:url(images/Unknown-9.jpeg);background-attachment:fixed;background-position:center;}
-.header-img-2{background-image:url(images/Unknown-16.jpeg);background-attachment:fixed;background-position:center;}
-.header-img-3{background-image:url(images/Unknown-4.jpeg);background-attachment:fixed;background-position:center;}
-.header-img-4{background-image:url(images/Unknown-17.jpeg);background-attachment:fixed;background-position:center;}
+.header-img-0{background-image:url(images/Unknown-6-min.jpeg);background-attachment:fixed;background-position:center;}
+.header-img-1{background-image:url(images/Unknown-9-min.jpeg);background-attachment:fixed;background-position:center;}
+.header-img-2{background-image:url(images/Unknown-16-min.jpeg);background-attachment:fixed;background-position:center;}
+.header-img-3{background-image:url(images/Unknown-4-min.jpeg);background-attachment:fixed;background-position:center;}
+.header-img-4{background-image:url(images/Unknown-17-min.jpeg);background-attachment:fixed;background-position:center;}
 .img-wrapper{display:flex;justify-content:space-around;flex-direction:column;height:100%;align-items:center;}
 .img-wrapper-context{display:flex;justify-content:center;flex-direction:column;align-items:center;}
 .description-img{width:100%;margin-bottom:2vh;margin-top:2vh}
@@ -64,11 +64,11 @@ h2{font-size:25px;}
 @media (max-width:320px){*{font-size:14px;}
 h1{font-size:25px;}
 h2{font-size:15px;}
-.header-img-0{background-image:url(images/Unknown-6-m.jpg);background-size:cover;}
-.header-img-1{background-image:url(images/Unknown-9-m.jpg);background-size:cover;}
-.header-img-2{background-image:url(images/Unknown-16-m.jpg);background-size:cover;}
-.header-img-3{background-image:url(images/Unknown-4-m.jpg);background-size:cover;}
-.header-img-4{background-image:url(images/Unknown-17-m.jpg);background-size:cover;}
+.header-img-0{background-image:url(images/Unknown-6-m-min.jpg);background-size:cover;}
+.header-img-1{background-image:url(images/Unknown-9-m-min.jpg);background-size:cover;}
+.header-img-2{background-image:url(images/Unknown-16-m-min.jpg);background-size:cover;}
+.header-img-3{background-image:url(images/Unknown-4-m-min.jpg);background-size:cover;}
+.header-img-4{background-image:url(images/Unknown-17-m-min.jpg);background-size:cover;}
 .description-img{width:100%;padding:0;}
 .article-main-text p{width:90%;}
 .article-second-text p{width:80%;}
